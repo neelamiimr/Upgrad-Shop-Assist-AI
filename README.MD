@@ -122,3 +122,4 @@ To begin utilizing ShopAssist AI, please proceed with the following instructions
 
 ![Screenshot1](images/1-image.png)
 ![Screenshot2](images/2-image.png)
+![Screenshot2](images/3-image.png)
