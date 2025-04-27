@@ -99,7 +99,7 @@ To begin utilizing ShopAssist AI, please proceed with the following instructions
 
 1. **Clone the repository**
    ``` shell
-   $ git clone https://github.com/SanjayaKumarSahoo/shop-assist-ai
+   $ git clone https://github.com/neelamiimr/Upgrad-Shop-Assist-AI
    ```
 2. **Enable the virtual environment**
     ```shell
