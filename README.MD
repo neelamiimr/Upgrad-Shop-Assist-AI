@@ -1,4 +1,4 @@
-# Shopping Assistant Assignment
+# Shop Assist AI Assignment
 
 ## 1. Background
 
