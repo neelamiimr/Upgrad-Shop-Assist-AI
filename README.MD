@@ -60,7 +60,7 @@ and moderation, while also accessing and comparing laptop data from an external 
 
 ![stages](images/stages.png)
 
-![systemdesign](images/system_design.png)
+![systemdesign](images/systemdesign.png)
 
 ## 7. Implementation Details
 
